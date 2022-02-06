@@ -1,0 +1,15 @@
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.DAL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.BLL.deps.json
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.BLL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.BLL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.DAL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.csproj.CopyComplete
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNetDeneme.BLL.pdb

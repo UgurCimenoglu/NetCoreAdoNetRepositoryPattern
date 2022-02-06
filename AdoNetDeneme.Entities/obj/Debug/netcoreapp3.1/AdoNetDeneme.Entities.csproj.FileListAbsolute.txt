@@ -1,0 +1,10 @@
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.deps.json
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNetDeneme.Entities.pdb

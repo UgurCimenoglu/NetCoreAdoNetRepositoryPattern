@@ -1,0 +1,15 @@
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.BLL.deps.json
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.BLL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.BLL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.DAL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.Entities.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.DAL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\bin\Debug\netcoreapp3.1\AdoNet.Entities.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.csproj.CopyComplete
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.BLL\obj\Debug\netcoreapp3.1\AdoNet.BLL.csproj.AssemblyReference.cache

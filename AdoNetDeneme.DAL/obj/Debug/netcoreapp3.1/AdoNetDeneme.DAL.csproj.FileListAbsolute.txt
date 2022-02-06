@@ -1,0 +1,13 @@
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNetDeneme.DAL.deps.json
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNetDeneme.DAL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNetDeneme.DAL.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNetDeneme.Entities.pdb
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.csproj.CopyComplete
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNetDeneme.DAL.pdb
