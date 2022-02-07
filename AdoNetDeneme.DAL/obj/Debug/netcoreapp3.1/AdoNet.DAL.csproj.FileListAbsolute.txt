@@ -10,4 +10,4 @@ C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\net
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csproj.CopyComplete
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.dll
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.pdb
-C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csproj.AssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csprojAssemblyReference.cache

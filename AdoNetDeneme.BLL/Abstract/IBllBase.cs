@@ -12,6 +12,6 @@ namespace AdoNetDeneme.BLL.Abstract
         IResponse<TDto> Find(int id);
         IResponse<List<TDto>> GetAll();
         IResponse<bool> DeleteById(int id);
-
+        void Save();
     }
 }

@@ -1,6 +1,5 @@
 using AdoNetDeneme.BLL.Abstract;
 using AdoNetDeneme.BLL.Concrete;
-using AdoNetDeneme.DAL.Abstract.UnitOfWorkInterfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -14,7 +13,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AdoNetDeneme.DAL.Concrete.AdoNet.UnitOfWorkSqlServer;
+using AdoNet.DAL.Abstract.UnitOfWorkInterfaces;
+using AdoNet.DAL.Concrete.AdoNet.UnitOfWorkSqlServer;
 
 namespace AdoNetDeneme.WebApi
 {
@@ -32,7 +32,7 @@ namespace AdoNetDeneme.WebApi
         {
 
             #region UnitOfWork
-            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IUnitOfWorks, UnitOfWorks>();
             #endregion
 
             #region BLL

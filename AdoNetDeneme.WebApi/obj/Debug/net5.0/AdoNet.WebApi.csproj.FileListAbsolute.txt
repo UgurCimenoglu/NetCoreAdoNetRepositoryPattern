@@ -52,5 +52,7 @@ C:\Users\ugurc\source\repos\AdoNet\AdoNet.WebApi\obj\Debug\net5.0\AdoNet.WebApi.
 C:\Users\ugurc\source\repos\AdoNet\AdoNet.WebApi\obj\Debug\net5.0\AdoNet.WebApi.dll
 C:\Users\ugurc\source\repos\AdoNet\AdoNet.WebApi\obj\Debug\net5.0\ref\AdoNet.WebApi.dll
 C:\Users\ugurc\source\repos\AdoNet\AdoNet.WebApi\obj\Debug\net5.0\AdoNet.WebApi.pdb
-C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\AdoNet.WebApi.StaticWebAssets.xml
-C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.csproj.AssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\staticwebassets\AdoNet.WebApi.StaticWebAssets.xml
