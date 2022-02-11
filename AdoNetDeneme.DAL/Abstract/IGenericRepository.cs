@@ -1,9 +1,9 @@
-﻿using AdoNetDeneme.Entities.Base;
+﻿using AdoNet.Entities.Base;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdoNetDeneme.DAL.Abstract
+namespace AdoNet.DAL.Abstract
 {
     public interface IGenericRepository<T> where T : IEntity
     {

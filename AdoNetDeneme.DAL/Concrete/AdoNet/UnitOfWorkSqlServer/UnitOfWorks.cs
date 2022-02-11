@@ -1,7 +1,7 @@
-﻿using AdoNet.DAL.Abstract.UnitOfWorkInterfaces;
-using AdoNetDeneme.DAL.Abstract;
-using AdoNetDeneme.DAL.Concrete.AdoNet.Repository;
-using AdoNetDeneme.Entities.Base;
+﻿using AdoNet.DAL.Abstract;
+using AdoNet.DAL.Abstract.UnitOfWorkInterfaces;
+using AdoNet.DAL.Concrete.AdoNet.Repository;
+using AdoNet.Entities.Base;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -12,16 +12,17 @@ namespace AdoNet.DAL.Concrete.AdoNet.UnitOfWorkSqlServer
 {
     public class UnitOfWorks : IUnitOfWorks 
     {
-        private readonly IConfiguration _configuration;
+        //private readonly IConfiguration _configuration;
         private SqlConnection _context { get; set; }
         private SqlTransaction _transaction { get; set; }
         bool _dispose;
 
-        public UnitOfWorks(IConfiguration configuration)
+        public UnitOfWorks(SqlConnection context)
         {
-            _configuration = configuration;
-            _context = new SqlConnection(_configuration.GetConnectionString("SqlServer"));
-            _context.Open();
+            _context = context;
+            //_configuration = configuration;
+            //_context = new SqlConnection(_configuration.GetConnectionString("SqlServer"));
+            //_context.Open();
         }
 
 
@@ -56,10 +57,10 @@ namespace AdoNet.DAL.Concrete.AdoNet.UnitOfWorkSqlServer
             GC.SuppressFinalize(this);
         }
 
-        public IGenericRepository<T> GetGenericRepository<T>() where T : IEntity
-        {
-            return new Repository<T>(_context);
-        }
+        //public IGenericRepository<T> GetGenericRepository<T>() where T : IEntity
+        //{
+        //    return new Repository<T>(_configuration);
+        //}
 
         public bool RollBackTransaction()
         {

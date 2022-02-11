@@ -1,17 +1,17 @@
-﻿using AdoNetDeneme.Entities.Dtos;
-using AdoNetDeneme.Entities.Entites;
+﻿using AdoNet.Entities.Dtos;
+using AdoNet.Entities.Entites;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdoNetDeneme.Entities.Mapper
+namespace AdoNet.Entities.Mapper
 {
     public class MappingProfile : Profile
     {
         public MappingProfile()
         {
-            CreateMap<User, DtoUser>().ReverseMap();
+            CreateMap<User, DtoUserRegister>().ReverseMap();
         }
     }
 }

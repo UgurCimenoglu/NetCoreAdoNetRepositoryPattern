@@ -1,9 +1,9 @@
-﻿using AdoNetDeneme.Entities.Base;
+﻿using AdoNet.Entities.Base;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdoNetDeneme.Entities.Entites
+namespace AdoNet.Entities.Entites
 {
     public class User : IEntity
     {
@@ -11,5 +11,8 @@ namespace AdoNetDeneme.Entities.Entites
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
+        public byte[] PasswordSalt { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public bool Status { get; set; }
     }
 }

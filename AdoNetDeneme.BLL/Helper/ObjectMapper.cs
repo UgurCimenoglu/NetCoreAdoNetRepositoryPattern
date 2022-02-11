@@ -1,10 +1,10 @@
-﻿using AdoNetDeneme.Entities.Mapper;
+﻿using AdoNet.Entities.Mapper;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdoNetDeneme.BLL.Helper
+namespace AdoNet.BLL.Helper
 {
     internal class ObjectMapper
     {

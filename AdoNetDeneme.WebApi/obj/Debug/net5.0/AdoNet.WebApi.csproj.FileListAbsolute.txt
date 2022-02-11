@@ -32,7 +32,6 @@ C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.AssemblyInfoInputs.cache
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.AssemblyInfo.cs
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\staticwebassets\AdoNet.WebApi.StaticWebAssets.Manifest.cache
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\scopedcss\bundle\AdoNet.WebApi.styles.css
@@ -56,3 +55,11 @@ C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\staticwebassets\AdoNet.WebApi.StaticWebAssets.xml
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.WebApi\obj\Debug\net5.0\AdoNet.WebApi.MvcApplicationPartsAssemblyInfo.cs

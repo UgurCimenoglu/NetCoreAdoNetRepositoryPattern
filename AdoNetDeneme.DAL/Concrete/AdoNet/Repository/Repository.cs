@@ -1,22 +1,28 @@
-﻿using AdoNetDeneme.DAL.Abstract;
-using AdoNetDeneme.Entities.Base;
+﻿using AdoNet.DAL.Abstract;
+using AdoNet.DAL.Abstract.UnitOfWorkInterfaces;
+using AdoNet.DAL.Concrete.AdoNet.UnitOfWorkSqlServer;
+using AdoNet.Entities.Base;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Text;
 
-namespace AdoNetDeneme.DAL.Concrete.AdoNet.Repository
+namespace AdoNet.DAL.Concrete.AdoNet.Repository
 {
     public class Repository<T> : IGenericRepository<T> where T : IEntity
     {
-        protected SqlConnection _context;
 
-        public Repository(SqlConnection context)
+        SqlConnection _context;
+        private readonly IConfiguration _configuration;
+        public Repository(IConfiguration configuration)
         {
-            _context = context;
-        }
+            _configuration = configuration;
+            _context = new SqlConnection(_configuration.GetConnectionString("SqlServer"));
+            _context.Open();
 
+        }
         protected SqlCommand CreateCommand(string procedure)
         {
             return new SqlCommand(procedure, _context);
@@ -27,9 +33,7 @@ namespace AdoNetDeneme.DAL.Concrete.AdoNet.Repository
             using (var cmd = CreateCommand(Procedure))
             {
                 cmd.CommandType = CommandType.StoredProcedure;
-                //cmd.Parameters.AddWithValue(@"FirstName", entity.FirstName);
-                //cmd.Parameters.AddWithValue(@"LastName", entity.LastName);
-                //cmd.Parameters.AddWithValue(@"Email", entity.Email);
+
                 foreach (var item in entity.GetType().GetProperties())
                 {
                     cmd.Parameters.AddWithValue(item.Name, item.GetValue(entity, null));

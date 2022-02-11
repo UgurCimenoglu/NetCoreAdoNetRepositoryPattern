@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdoNetDeneme.Entities.Base
+namespace AdoNet.Entities.Base
 {
     public interface IResponse
     {
